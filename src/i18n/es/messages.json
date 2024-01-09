@@ -1,0 +1,12 @@
+{
+  "Wrong password": "Contraseña incorrecta",
+  "Invalid token": "Token inválido",
+  "You cannot create a group with level 1 and a parent group": "No puedes crear un grupo con nivel 1 y un grupo padre",
+  "You must provide a parent group": "Debes proporcionar un grupo padre",
+  "The level of the group must be the same as the parent group + 1": "El nivel del grupo debe ser el mismo que el grupo padre + 1",
+  "The level must be the next one": "El nivel debe ser el siguiente",
+  "The level provided does not exist": "El nivel proporcionado no existe",
+  "You must send the Tenant ID": "Debes enviar el ID del Inquilino",
+  "Just user can access this route": "Solo el usuario puede acceder a esta ruta",
+  "File is required": "El archivo es requerido"
+}

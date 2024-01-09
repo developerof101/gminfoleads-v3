@@ -1,0 +1,12 @@
+{
+  "TENANT": "Inquilino",
+  "SYSTEM_USER": "Usuario",
+  "USER": "Usuario",
+  "TICKET": "Ticket",
+  "CATEGORY": "Categoria",
+  "GROUP": "Grupo",
+  "LEVEL_NAME": "Nombre de nivel",
+  "MESSAGE": "Mensaje",
+  "ATTACHMENT": "Adjunto",
+  "MEMBER": "Miembro"
+}

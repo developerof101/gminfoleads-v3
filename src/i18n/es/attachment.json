@@ -1,0 +1,7 @@
+{
+  "url": "URL",
+  "tenantId": "Inquilino",
+  "ticketId": "Ticket",
+  "userId": "Usuario",
+  "systemUserId": "Usuario do sistema"
+}

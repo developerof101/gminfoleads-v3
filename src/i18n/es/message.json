@@ -1,0 +1,7 @@
+{
+  "message": "Mensaje",
+  "tenantId": "Inquilino",
+  "ticketId": "Ticket",
+  "systemUserId": "Usuario del sistema",
+  "userId": "Usuario"
+}

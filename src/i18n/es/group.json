@@ -1,0 +1,8 @@
+{
+  "level": "Nivel",
+  "slug": "Slug",
+  "name": "Nombre",
+  "tenantId": "Inquilino",
+  "parentId": "Grupo padre",
+  "ignorePagination": "Ignorar paginación"
+}

@@ -1,0 +1,13 @@
+{
+  "code": "Código",
+  "firstName": "Nombre",
+  "lastName": "Apellido",
+  "fullName": "Nombre completo",
+  "subject": "Asunto",
+  "body": "Descripción",
+  "tenantId": "Inquilino",
+  "categoryId": "Categoría",
+  "assignedTo": "Asignado a",
+  "groupId": "Grupo",
+  "ignorePagination": "Ignorar paginación"
+}

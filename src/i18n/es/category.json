@@ -1,0 +1,8 @@
+{
+  "slug": "Slug",
+  "code": "Código",
+  "name": "Nombre",
+  "tenantId": "Inquilino",
+  "inChargedOfId": "Encargado",
+  "groupId": "Grupo"
+}

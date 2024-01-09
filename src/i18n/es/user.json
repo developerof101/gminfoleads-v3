@@ -1,0 +1,8 @@
+{
+  "email": "Correo",
+  "avatar": "Avatar",
+  "firstName": "Nombre",
+  "lastName": "Apellido",
+  "fullName": "Nombre completo",
+  "tenantId": "Inquilino"
+}
