@@ -16,8 +16,6 @@ import { SystemUser } from '../system-users/system-user.entity';
 export enum RoleCodes {
   SUPER_ADMIN = 'SA',
   ADMIN = 'AD',
-  WATCHER = 'WT',
-  AGENT = 'AG',
   USER = 'US',
 }
 

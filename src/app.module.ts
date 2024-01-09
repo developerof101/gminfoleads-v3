@@ -13,6 +13,7 @@ import { SystemUsersModule } from './modules/system-users/system-users.module';
 import { SystemRolesModule } from './modules/system-roles/system-roles.module';
 import { UploadsModule } from './modules/uploads/uploads.module';
 import { TasksModule } from './modules/tasks/tasks.module';
+import { FtpModule } from './modules/ftp/ftp.module';
 
 @Module({
   imports: [
@@ -62,6 +63,7 @@ import { TasksModule } from './modules/tasks/tasks.module';
     SystemRolesModule,
     UploadsModule,
     TasksModule,
+    FtpModule,
   ],
   controllers: [AppController],
   providers: [AppService],

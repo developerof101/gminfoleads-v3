@@ -18,26 +18,13 @@ export class SystemRolesSeeder1586224315330 implements MigrationInterface {
           code: 'AD',
           name: 'Administrador',
           description:
-            'Tiene visualización de todas las tarjetas, puede modificar todas las tarjetas',
+            'Tiene permisos de administrador, pero no puede crear usuarios',
         },
         {
           id: 3,
-          code: 'WT',
-          name: 'Observador',
-          description:
-            'Automáticamente se le asigna como observador a todo, no puede cambiar nada',
-        },
-        {
-          id: 4,
-          code: 'AG',
-          name: 'Agente de Soporte',
-          description: 'Encargado de resolver tickets',
-        },
-        {
-          id: 5,
           code: 'US',
           name: 'Usuario',
-          description: 'Creador de tickets',
+          description: 'Usuario normal, no tiene permisos de administrador',
         },
       ])
       .execute();
